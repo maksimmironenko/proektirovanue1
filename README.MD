@@ -6,7 +6,3 @@
 
 ER диаграмма https://dbdiagram.io/d/66e6f9fb6dde7f41492a6604
 
-Диаграмма классов:
-
-Edit: https://www.mermaidchart.com/app/projects/6531db0b-070d-4db0-b83e-5020cd60059e/diagrams/32081898-853f-4e7a-b1b2-b7f059aa5b06/version/v0.1/edit
-View: https://www.mermaidchart.com/raw/32081898-853f-4e7a-b1b2-b7f059aa5b06?theme=light&version=v0.1&format=svg
